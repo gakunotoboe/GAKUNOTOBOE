@@ -118,7 +118,8 @@
     <h2>お知らせ</h2>
     <p>最新情報やイベント情報をこちらでお知らせします。</p>
     <div>
-        <img src="C:\Users\sac02\Desktop\GAKU\HP関連\グレー　カラフル　シック　シンプル　2025　カレンダー　営業日　インスタグラムの投稿.jpg" alt="お知らせ画像" style="width: 200%; max-width: 1250px; border-radius: 10px; margin-top: 20px;">
+        <img src="images/news-image.jpg" alt="お知らせ画像" style="width: 100%; max-width: 500px; border-radius: 10px; margin-top: 20px;">
+    </div>
     </div>
 </section>
 
@@ -126,11 +127,7 @@
     <h2>メニュー</h2>
     <p>自家製エンパナーダや自家製デザートで非日常を体験できます。</p>
     <div>
-        <img src="C:\Users\sac02\Desktop\GAKU\HP関連\IMG_2159.JPG" alt="メニュー画像" style="width: 100%; aspect-ratio: 16/9; max-width: 500px; border-radius: 10px; margin-top: 20px; object-fit: cover;">
-    </div>
-    <div class="menu-items">
-        <div>
-            <img src="C:\Users\sac02\Desktop\GAKU\HP関連\IMG_2135.jpg" alt="エンパナーダ">
+        <img src="images/jpg" alt="エンパナーダ">
             <p>☝拡大するよ</p>
         </div>
         <div>
@@ -184,3 +181,4 @@
 
 </body>
 </html>
+
